@@ -354,7 +354,7 @@ a#menu-close:hover {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin-top: 82px;
+  margin-top: 20px;
 }
 
 /* Intro */
@@ -872,4 +872,9 @@ i.scroll:hover {
   position:fixed;
 left:0;
 top:0;
+}
+.heading{
+ 
+  justify-content: center;
+  text-align: center;
 }
